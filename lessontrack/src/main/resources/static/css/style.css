@@ -1,0 +1,35 @@
+body {
+    background-color: #f5f7fa;
+}
+
+.page-title {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.card-stat {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.table {
+    background-color: white;
+}
+
+.table th {
+    background-color: #212529;
+    color: white;
+}
+
+.action-buttons a {
+    margin-right: 5px;
+}
+
+.form-card {
+    max-width: 800px;
+    margin: auto;
+}
